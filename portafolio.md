@@ -23,6 +23,24 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
 <br>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías Conocidas 👩‍💻</h2></summary>
+  </ul>
+  <br>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,tailwind,html,js,vite,react,php,laravel,mysql,postman,vscode,md,figmaflutter&perline=10" />
+  </a>
+</p>
+
+<br>
+<br>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Contáctame 🤝 </h2>
 <p align="center">
 
@@ -45,20 +63,3 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
   </samp>
 </div>
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías Conocidas 👩‍💻</h2></summary>
-  </ul>
-  <br>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,tailwind,html,js,vite,react,php,laravel,mysql,postman,vscode,md,figmaflutter&perline=10" />
-  </a>
-</p>
-
