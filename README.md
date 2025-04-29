@@ -1,4 +1,4 @@
-
+<body backgound-color="#121212">
 <br>
 <h1 align="center"><b>Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Linda Rojas </b></h1>
 <br>
@@ -63,3 +63,4 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
   </samp>
 </div>
 <br>
+<body/>
