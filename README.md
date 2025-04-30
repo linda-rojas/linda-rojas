@@ -49,23 +49,23 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
 
   <div align="center">
   <a href="https://github.com/linda-rojas/crud-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=crud-laravel&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=crud-laravel&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/linda-rojas/dog-collection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=dog-collection&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=dog-collection&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 
   <a href="https://github.com/linda-rojas/payment-gateway-with-wompi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=payment-gateway-with-wompi&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=payment-gateway-with-wompi&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 <a href="https://github.com/linda-rojas/carrito-de-compras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-compras&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-compras&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 
 <td colspan="2" align="center">
   <a href="https://github.com/linda-rojas/reCATCHA_V1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-compras&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-compras&&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 </td>
   
@@ -73,10 +73,10 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
   <br>
   <br>
   
-  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=linda-rojas&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
+  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=linda-rojas&show_icons=true&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff&count_private=true&include_all_commits=true)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linda-rojas&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linda-rojas&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff)
 
   <br>
 <br>
