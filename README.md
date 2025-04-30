@@ -59,8 +59,8 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
   <a href="https://github.com/linda-rojas/payment-gateway-with-wompi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=payment-gateway-with-wompi&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
-<a href="https://github.com/linda-rojas/carrito-de-compras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-compras&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
+<a href="https://github.com/linda-rojas/reCATCHA_V1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=reCATCHA_V1&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 
 <td colspan="2" align="center">
