@@ -1,10 +1,10 @@
 <body backgound-color="#121212">
 <br>
-<h1 align="center"><b>Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Linda Rojas </b></h1>
+<h1 align="center"><b>Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Soy Linda Rojas </b></h1>
 <br>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Desarrolladora+Front-End+autodidacta;Siempre+aprendiendo,+siempre+mejorando..&hearts;++;Apasionada+por+crear+interfaces+intuitivas;Me+gusta+aprender+cosas+nuevas..<3"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=550&height=100&lines=Soy+Desarrolladora+Front-End+autodidacta;Siempre+aprendiendo,+siempre+mejorando..&hearts;++;Apasionada+por+crear+interfaces+intuitivas;Me+gusta+aprender+cosas+nuevas..<3"></a>
 </p>
 
 <div align="center">
@@ -34,14 +34,14 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,tailwind,html,js,vite,react,php,laravel,mysql,postman,vscode,md,figmaflutter&perline=10" />
   </a>
 </p>
 
 <br>
 <br>
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Contáctame 🤝 </h2>
+<h2 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Contáctame 🤝 </h2>
 <p align="center">
 
  <div>
