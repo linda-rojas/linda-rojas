@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=550&height=100&lines=Soy+Desarrolladora+Front-End+autodidacta;Siempre+aprendiendo,+siempre+mejorando..&hearts;++;Apasionada+por+crear+interfaces+intuitivas;Me+gusta+aprender+cosas+nuevas..<3"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=550&height=100&lines=Soy+Desarrolladora+Front-End;Siempre+aprendiendo,+siempre+mejorando..&hearts;++;Apasionada+por+crear+interfaces+intuitivas;Me+gusta+aprender+cosas+nuevas..<3"></a>
 </p>
 
 <div align="center">
@@ -14,9 +14,9 @@
 <br>
 <br>
 <p align="center">
-Como desarrolladora Front-End autodidacta, he adquirido habilidades a través de la autoformación y proyectos personales. Mi enfoque está en la mejora continua y en crear soluciones tecnológicas que respondan a las necesidades de los usuarios. Disfruto afrontar nuevos retos y siempre estoy buscando formas de perfeccionar mis habilidades.
+Soy desarrolladora Front-End con formación en plataformas como Platzi y el bootcamp de freeCodeCamp, además de experiencia práctica en proyectos personales. Mi enfoque está en la mejora continua y en crear soluciones tecnológicas centradas en la experiencia del usuario.
 
-Me motiva colaborar en proyectos que me permitan aprender de otros, aportar ideas frescas y crecer en equipo. Además, busco mantener un equilibrio entre el desarrollo profesional y personal, siempre con una actitud positiva ante los desafíos
+Me motiva colaborar en equipos donde pueda aprender de otras personas, aportar ideas frescas y crecer profesionalmente. Disfruto asumir nuevos retos y busco mantener un equilibrio entre el desarrollo técnico y personal, siempre con una actitud positiva ante los desafíos.
 </p>
 
 <br>
@@ -35,7 +35,7 @@ Me motiva colaborar en proyectos que me permitan aprender de otros, aportar idea
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,tailwind,html,js,vite,react,php,laravel,mysql,postman,vscode,md,figmaflutter&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,tailwind,sass,html,js,vite,react,php,laravel,mysql,postman,vscode,md,figmaflutter&perline=10" />
   </a>
 </p>
 
