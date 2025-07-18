@@ -48,6 +48,11 @@ Me motiva colaborar en equipos donde pueda aprender de otras personas, aportar i
   <br>
 
   <div align="center">
+
+   <a href="https://github.com/linda-rojas/curso-frontend-developer-javascript-practico">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-  compras&&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
+</a>
+
   <a href="https://github.com/linda-rojas/crud-laravel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=crud-laravel&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
@@ -56,16 +61,14 @@ Me motiva colaborar en equipos donde pueda aprender de otras personas, aportar i
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=dog-collection&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 
-  <a href="https://github.com/linda-rojas/payment-gateway-with-wompi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=payment-gateway-with-wompi&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
-</a>
-<a href="https://github.com/linda-rojas/reCATCHA_V1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=reCATCHA_V1&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
+  
+<a href="https://github.com/linda-rojas/machineSound-freecodecamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=machineSound-freecodecamp&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 
 <td colspan="2" align="center">
-  <a href="https://github.com/linda-rojas/curso-frontend-developer-javascript-practico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-compras&&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
+  <a href="https://github.com/linda-rojas/payment-gateway-with-wompi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=payment-gateway-with-wompi&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 </td>
   
