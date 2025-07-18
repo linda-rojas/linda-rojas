@@ -78,8 +78,6 @@ Me motiva colaborar en equipos donde pueda aprender de otras personas, aportar i
   
   ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=linda-rojas&show_icons=true&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff&count_private=true&include_all_commits=true)
   
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linda-rojas&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff)
 
   <br>
 <br>
