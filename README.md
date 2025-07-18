@@ -64,7 +64,7 @@ Me motiva colaborar en equipos donde pueda aprender de otras personas, aportar i
 </a>
 
 <td colspan="2" align="center">
-  <a href="https://github.com/linda-rojas/reCATCHA_V1">
+  <a href="https://github.com/linda-rojas/curso-frontend-developer-javascript-practico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linda-rojas&repo=carrito-de-compras&&theme=default&layout=compact&card_width=445&bg_color=000a2a60&title_color=ffffff&text_color=ffffff" />
 </a>
 </td>
